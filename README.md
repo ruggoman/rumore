@@ -1,0 +1,2 @@
+# rumore
+calcolo rumore
